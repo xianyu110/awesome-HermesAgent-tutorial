@@ -1,16 +1,6 @@
 # awesome-HermesAgent-tutorial
 
----
-title: Hermes Agent 深度解析
-subtitle: 自改进 AI Agent 框架全景
-topic: Hermes Agent
-author: Maynor @MaynorAI
-date: 2026-04-10
-version: 1.0
-readers: 技术人员与架构师
-depth: 标准调研
-sources_count: 42+
----
+
 
 <!-- 封面（PDF渲染时使用） -->
 
